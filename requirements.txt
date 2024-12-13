@@ -1,0 +1,5 @@
+google-generativeai
+langgraph
+python-dotenv
+sqlite3
+sreamlit
