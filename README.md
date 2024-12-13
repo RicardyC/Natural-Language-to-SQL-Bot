@@ -46,9 +46,9 @@ Orchestrates the end-to-end processing of user queries:
 
 ## Getting Started
 ### Prerequisites
-- Python 3.x
+- Python >= 3.9
 - Streamlit
-- Required libraries: `langchain`, `langgraph`, `dotenv`
+- Required libraries: `langchain`, `langgraph`, `dotenv`, `google.generativeai` 
 
 ### Setup
 1. Clone the repository.
@@ -59,6 +59,9 @@ Orchestrates the end-to-end processing of user queries:
 ### Example
 Input: *"Show the total sales by each employee in the database."*
 Output: SQL query + human-readable explanation of results.
+
+### Video Demonstration:
+url: https://www.loom.com/share/f5aba3c508fa4d7cb8803f028d850d57?sid=129f4655-75bb-48d9-9454-455e28b40892
 
 ---
 
