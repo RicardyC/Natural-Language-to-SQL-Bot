@@ -1,7 +1,4 @@
 # Natural-Language-to-SQL-Bot
-This "Natural-Language-to-SQL-Bot" is a project utilizing GPT-4o to enable seamless translation of natural language queries into SQL statements, facilitating efficient database interactions.
-
-# Natural-Language-to-SQL-Bot
 
 A project leveraging cutting-edge Natural Language Processing (NLP) and Large Language Models (LLMs) to translate natural language queries into SQL, enabling intuitive database interactions. The bot handles query refinement, schema validation, SQL generation, and result explanation.
 
