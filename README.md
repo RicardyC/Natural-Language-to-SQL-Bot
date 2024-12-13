@@ -67,8 +67,7 @@ Output: The longest track in the database is "Occupation / Precipice", clocking 
 Input: *"Show sales of 2010 only from the months of June, July and August"*
 Output: Total sales for June, July, and August of 2010 were $111.87. This represents the combined sales for those three months.
 
-### Video Demonstration:
-url: https://www.loom.com/share/f5aba3c508fa4d7cb8803f028d850d57?sid=129f4655-75bb-48d9-9454-455e28b40892
+
 
 ---
 
