@@ -56,9 +56,13 @@ Orchestrates the end-to-end processing of user queries:
 3. Configure the environment variables in a `.env` file.
 4. Run the app using `streamlit run app.py`.
 
-### Example
-Input: *"Show the total sales by each employee in the database."*
-Output: SQL query + human-readable explanation of results.
+### Example 1
+Input: *"What are the details of the longest track in the database?"*
+Output: The longest track in the database is "Occupation / Precipice", clocking in at a whopping 5,286,953 milliseconds (almost 1 hour and 28 minutes). It's from Album ID 227 and costs $1.99
+
+### Example 1
+Input: *"Show sales of 2010 only from the months of June, July and August"*
+Output: Total sales for June, July, and August of 2010 were $111.87. This represents the combined sales for those three months.
 
 ### Video Demonstration:
 url: https://www.loom.com/share/f5aba3c508fa4d7cb8803f028d850d57?sid=129f4655-75bb-48d9-9454-455e28b40892
