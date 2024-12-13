@@ -30,7 +30,7 @@ Defines a graph-based workflow to process user queries with clear states and tra
   3. Generate SQL
   4. Execute Query
   5. Generate Explanation
-- **`create_workflow`**: Compiles the steps into a sequential graph for streamlined query handling.
+- **`create_workflow`**: Compiles the steps into a sequential graph using LangGraph for streamlined query handling.
 
 ### `app.py`
 Orchestrates the end-to-end processing of user queries:
