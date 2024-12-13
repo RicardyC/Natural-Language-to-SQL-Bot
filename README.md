@@ -56,6 +56,9 @@ Orchestrates the end-to-end processing of user queries:
 3. Configure the environment variables in a `.env` file.
 4. Run the app using `streamlit run app.py`.
 
+### Streamlit UI
+![Example Image](https://github.com/RicardyC/Natural-Language-to-SQL-Bot/blob/main/Example.png)
+
 ### Example 1
 Input: *"What are the details of the longest track in the database?"*
 Output: The longest track in the database is "Occupation / Precipice", clocking in at a whopping 5,286,953 milliseconds (almost 1 hour and 28 minutes). It's from Album ID 227 and costs $1.99
